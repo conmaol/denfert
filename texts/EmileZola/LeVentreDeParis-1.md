@@ -2,4 +2,6 @@
 
 Au milieu du grand silence, et dans le désert de l’avenue, les voitures de maraîchers montaient vers Paris, avec les cahots rythmés de leurs roues, dont les échos battaient les façades des maisons, endormies aux deux bords, derrière les lignes confuses des ormes. Un tombereau de choux et un tombereau de pois, au pont de Neuilly, s’étaient joints aux huit voitures de navets et de carottes qui descendaient de Nanterre ; et les chevaux allaient tout seuls, la tête basse, de leur allure continue et paresseuse, que la montée ralentissait encore. En haut, sur la charge des légumes, allongés à plat ventre, couverts de leur limousine à petites raies noires et grises, les charretiers sommeillaient, les guides aux poignets. Un bec de gaz, au sortir d’une nappe d’ombre, éclairait les clous d’un soulier, la manche bleue d’une blouse, le bout d’une casquette, entrevus dans cette floraison énorme des bouquets rouges des carottes, des bouquets blancs des navets, des verdures débordantes des pois et des choux. Et, sur la route, sur les routes voisines, en avant et en arrière, des ronflements lointains de charrois annonçaient des convois pareils, tout un arrivage traversant les ténèbres et le gros sommeil de deux heures du matin, berçant la ville noire du bruit de cette nourriture qui passait.
 
-Back
+----
+
+Back up to: [Émile Zola](index.md) | [Texts](../index.md) | [Top](../../index.md)
