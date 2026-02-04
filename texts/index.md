@@ -1,6 +1,6 @@
 # Texts
 
-- Émile Zola
+- [Émile Zola](EmileZola/index.md)
 - 
 
 ----
