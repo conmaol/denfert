@@ -1,6 +1,11 @@
 # maraîcher
 
-`maraîcher` is a [noun](../../../index.md).
+`maraîcher` ‘a vegetable grower’ is a masculine [noun](../../../index.md).
+
+*qv.* marais *masc.* ‘a marsh, a swamp, a wetland’
+
+Derivatives:
+- maraîchage *masc.* ‘early season fruit and vegetable (primeur) farming’
 
 Examples:
 
