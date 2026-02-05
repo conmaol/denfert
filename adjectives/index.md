@@ -1,6 +1,6 @@
 # Adjectives
 
-- **[grand](g/gr/gra/grand.md)** *adj.* ‘big’
+- [simple adjectives](simpleAdjectives.md)
 
 ----
 
