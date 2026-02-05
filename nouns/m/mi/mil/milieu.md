@@ -2,7 +2,7 @@
 
 `milieu` ‘middle, centre, surroundings, setting, environment’ is a masculine [compound noun](../../../compoundNouns.md).
 
-*qv.* **mi-** ‘mid’, **lieu** *masc.* ‘a place’
+*qv.* **mi-** ‘mid’, **[lieu](../../../l/li/lie/lieu.md)** *masc.* ‘a place’
 
 Examples:
 
