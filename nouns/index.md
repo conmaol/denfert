@@ -2,6 +2,7 @@
 
 - [simple nouns](simpleNouns.md)
 - [derived nouns](derivedNouns.md)
+- [compound nouns](compoundNouns.md)
 
 ----
 
