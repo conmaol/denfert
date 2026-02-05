@@ -6,6 +6,8 @@
 
 [Prepositions](prepositions/index.md)
 
+[Prefixes](prefixes/index.md)
+
 [Texts](texts/index.md)
 
 ----
