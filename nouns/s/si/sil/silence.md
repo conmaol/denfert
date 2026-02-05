@@ -1,6 +1,6 @@
 # silence
 
-`silence` is a masculine derived noun.
+`silence` is a masculine [simple noun](../../../simpleNouns.md).
 
 Examples:
 
