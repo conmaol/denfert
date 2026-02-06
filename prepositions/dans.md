@@ -1,6 +1,6 @@
 # dans
 
-`dans` ‘in, inside’ is a [preposition](index.md).
+`dans` ‘in, inside, within’ is a [preposition](index.md).
 
 Examples:
 
