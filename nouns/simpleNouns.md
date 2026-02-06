@@ -1,5 +1,6 @@
 # Simple nouns
 
+- **[désert](d/de/des/désert.md)** *masc.* ‘a desert’
 - **[lieu](l/li/lie/lieu.md)** *masc.* ‘a place’
 - **[marais](m/ma/mar/marais.md)** *masc.* ‘a marsh’
 - **[roue](r/ro/rou/roue.md)** *fem.* ‘a wheel’
