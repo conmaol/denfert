@@ -1,6 +1,6 @@
 # avenue
 
-`avenue` ‘an avenue, a broad street bordered with trees’ is a feminine [derived noun](../../../derivedNouns.md).
+`avenue` ‘an avenue, a broad street bordered with trees’ is a feminine [simple noun](../../../simpleNouns.md).
 
 Examples:
 
