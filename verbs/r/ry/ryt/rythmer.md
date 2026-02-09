@@ -5,7 +5,7 @@
 *qv.* **[rythme](../../../../nouns/r/ry/ryt/rythme.md)** *masc.* ‘a rhythm’
 
 Derivatives:
-- **[rythmé](../../../../adjectives/r/ry/ryt/rythme.md)** *adj.* ‘rhythmic’
+- **[rythmé](../../../../adjectives/r/ry/ryt/rythmé.md)** *adj.* ‘rhythmic’
 
 ----
 
