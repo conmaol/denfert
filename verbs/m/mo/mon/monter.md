@@ -1,6 +1,6 @@
 # monter
 
-`monter` ‘ascend, go uphill, climb, rise’ is a [verb](../../../index.md).
+`monter` ‘ascend, go uphill, climb, rise’ is a [simple verb](../../../simpleVerbs.md).
 
 Examples:
 
