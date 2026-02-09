@@ -1,6 +1,7 @@
 # Verbs
 
-- **[monter](m/mo/mon/monter.md)** *vb.* ‘ascend’
+- [simple verbs](simpleVerbs.md)
+- [derived verbs](derivedVerbs.md)
 
 ----
 
