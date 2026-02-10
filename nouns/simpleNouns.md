@@ -6,6 +6,7 @@
 - **[lieu](l/li/lie/lieu.md)** *masc.* ‘a place’
 - **[marais](m/ma/mar/marais.md)** *masc.* ‘a marsh’
 - **[roue](r/ro/rou/roue.md)** *fem.* ‘a wheel’
+- **[rythme](r/ry/ryt/rythme.md)** *masc.* ‘a rhythm’
 - **[silence](s/si/sil/silence.md)** *masc.* ‘silence’
 - **[voiture](v/vo/voi/voiture.md)** *fem.* ‘a car’
 
