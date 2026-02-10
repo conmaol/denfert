@@ -1,9 +1,9 @@
 # rythme
 
-simple noun
+`rythme` ‘a rhythm’ is a masculine [simple noun](../../../simpleNouns.md).
 
 Derivatives:
-- rythmer vb. ‘mark out the rhythm or beat’
+- **[rythmer](../../../../verbs/r/ry/ryt/rythme.md)** *vb.* ‘mark out the rhythm or beat’
 
 ----
 
