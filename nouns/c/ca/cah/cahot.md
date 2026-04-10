@@ -1,6 +1,6 @@
 # cahot
 
-`cahot` ‘a jolt, a bump’ is a masculine [simple noun](../../../simpleNouns.md).
+`un cahot` ‘a jolt, a bump’ is a masculine [simple noun](../../../simpleNouns.md).
 
 Examples:
 
