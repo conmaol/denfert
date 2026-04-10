@@ -1,6 +1,6 @@
 # désert
 
-`désert` ‘a desert’ is a masculine [simple noun](../../../simpleNouns.md).
+`un désert` ‘a desert’ is a masculine [simple noun](../../../simpleNouns.md).
 
 Examples:
 
