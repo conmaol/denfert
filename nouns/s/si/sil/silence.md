@@ -1,6 +1,6 @@
 # silence
 
-`silence` ‘silence’ is a masculine [simple noun](../../../simpleNouns.md).
+`un silence` ‘silence’ is a masculine [simple noun](../../../simpleNouns.md).
 
 Examples:
 
