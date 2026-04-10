@@ -1,6 +1,6 @@
 # Paris
 
-`Paris` ‘Paris’ is a proper noun.
+`Paris` ‘Paris’ is a masculine (proper) [simple noun](../../../simpleNouns.md).
 
 Examples:
 
