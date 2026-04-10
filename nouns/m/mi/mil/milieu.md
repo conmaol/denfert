@@ -1,6 +1,6 @@
 # milieu
 
-`milieu` ‘middle, centre, surroundings, setting, environment’ is a masculine [compound noun](../../../compoundNouns.md).
+`un milieu` ‘middle, centre, surroundings, setting, environment’ is a masculine [compound noun](../../../compoundNouns.md).
 
 *qv.* **[mi-](../../../../prefixes/mi-.md)** ‘mid-’, **[lieu](../../../l/li/lie/lieu.md)** *masc.* ‘a place’
 
