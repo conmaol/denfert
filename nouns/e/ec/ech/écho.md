@@ -1,6 +1,6 @@
 # écho
 
-`un écho` ‘an echo’ is a masculine simple noun.
+`un écho` ‘an echo’ is a masculine [simple noun](../../../simpleNouns.md).
 
 Examples:
 
