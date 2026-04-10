@@ -10,6 +10,9 @@
 - **[silence](s/si/sil/silence.md)** *masc.* ‘silence’
 - **[voiture](v/vo/voi/voiture.md)** *fem.* ‘a car’
 
+Proper nouns:
+- **[Paris](p/pa/par/Paris.md)** *masc.* ‘Paris’
+
 ----
 
 Back up to: [Nouns](index.md) | [Top](../index.md)
