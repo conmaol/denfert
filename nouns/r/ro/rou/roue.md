@@ -1,6 +1,6 @@
 # roue
 
-`roue` ‘a wheel’ is a feminine [simple noun](../../../simpleNouns.md).
+`une roue` ‘a wheel’ is a feminine [simple noun](../../../simpleNouns.md).
 
 Examples:
 
