@@ -1,6 +1,6 @@
 # façade
 
-`façade` is a [derived noun](../../../derivedNouns.md).
+`une façade` is a feminine [derived noun](../../../derivedNouns.md).
 
 Examples:
 
