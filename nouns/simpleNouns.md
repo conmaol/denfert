@@ -6,6 +6,7 @@
 - **[écho](e/ec/ech/écho.md)** *masc.* ‘an echo’
 - **[face](f/fa/fac/face.md)** *fem.* ‘a face’
 - **[lieu](l/li/lie/lieu.md)** *masc.* ‘a place’
+- **[maison](m/ma/mai/maison.md)** *fem.* ‘a house’
 - **[marais](m/ma/mar/marais.md)** *masc.* ‘a marsh’
 - **[roue](r/ro/rou/roue.md)** *fem.* ‘a wheel’
 - **[rythme](r/ry/ryt/rythme.md)** *masc.* ‘a rhythm’
