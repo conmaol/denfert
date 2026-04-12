@@ -1,6 +1,7 @@
 # Simple nouns
 
 - **[avenue](a/av/ave/avenue.md)** *fem.* ‘an avenue’
+- **[bord](b/bo/bor/bord.md)** *masc.* ‘a border’
 - **[cahot](c/ca/cah/cahot.md)** *masc.* ‘a jolt’
 - **[désert](d/de/des/désert.md)** *masc.* ‘a desert’
 - **[écho](e/ec/ech/écho.md)** *masc.* ‘an echo’
