@@ -1,7 +1,7 @@
 # Le Mystère Frontenac – I
 
 
-> XAVIER FRONTENAC jeta un regard timide sur sa belle-sœur qui tricotait, le buste droit, sans s’appuyer au dossier de la chaise basse qu’elle avait rapprochée du feu : et il comprit qu’elle était irritée. Il chercha à se rappeler ce qu’il avait dit, pendant le dîner : et ses propos lui semblèrent dénués de toute malice. Xavier soupira, passa sur son crâne une main fluette.
+> XAVIER FRONTENAC jeta un regard timide sur sa belle-sœur qui tricotait, le buste droit, sans s’appuyer au dossier de la chaise basse qu’elle avait rapprochée du feu ; et il comprit qu’elle était irritée. Il chercha à se rappeler ce qu’il avait dit, pendant le dîner : et ses propos lui semblèrent dénués de toute malice. Xavier soupira, passa sur son crâne une main fluette.
 
 
 Xavier Frontenac cast a timid glance at his sister-in-law, who was knitting, sitting bolt upright without leaning against the back of the low chair she had drawn close to the fire; and he realised that she was annoyed. He tried to remember what he had said during dinner, but his remarks seemed to him entirely innocent. Xavier sighed and ran a slender hand over his bald head.
