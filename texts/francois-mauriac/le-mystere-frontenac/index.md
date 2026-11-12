@@ -1,7 +1,7 @@
 # Le Mystère Frontenac
 
 Première partie
-- [Chapǐtre I](ch1.md)
+- [Chapître I](ch1.md)
 - 
 
 ----
