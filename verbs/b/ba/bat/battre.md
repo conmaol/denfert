@@ -1,6 +1,6 @@
 # battre
 
-`battre` ‘beat (up), defeat, fight’ is a [simple verb](../../../simpleVerbs.md).
+`battre` ‘beat (up), defeat, fight’ is a [simple verb](../../../simple-verbs.md).
 
 Examples:
 
