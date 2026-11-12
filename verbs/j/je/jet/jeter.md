@@ -1,6 +1,6 @@
 # jeter
 
-`jeter` ‘throw’ is a [simple verb](../../../simple-verbs.md).
+`jeter` ‘throw, cast’ is a [simple verb](../../../simple-verbs.md).
 
 Examples:
 
