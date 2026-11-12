@@ -4,7 +4,8 @@
 
 Examples:
 
-> Xavier Frontenac [jeta](../../../../verbs/j/je/jet/jeter.md) un <mark>regard</mark> timide sur sa belle-sœur qui tricotait. (*[François Mauriac](../../../../texts/francois-mauriac/le-mystere-frontenac/ch1.md#p1) – ‘Xavier cast a timid glance at his sister-in-law’*)
+> Xavier Frontenac [jeta](../../../../verbs/j/je/jet/jeter.md) un <mark>regard</mark> timide sur sa belle-sœur qui tricotait.<br/>
+> (*[François Mauriac](../../../../texts/francois-mauriac/le-mystere-frontenac/ch1.md#p1) – ‘Xavier cast a timid glance at his sister-in-law’*)
 
 ----
 
