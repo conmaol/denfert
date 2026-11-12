@@ -1,6 +1,6 @@
 # regard
 
-`regard` ‘a look, a glance’ is a [derived noun](../../../derived-nouns.md).
+`un regard` ‘a look, a glance’ is a [derived noun](../../../derived-nouns.md).
 
 Examples:
 
